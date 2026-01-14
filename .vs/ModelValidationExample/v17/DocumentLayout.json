@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Models\\Person.cs",
               "RelativeDocumentMoniker": "ModelValidationExample\\Models\\Person.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Models\\Person.cs",
               "RelativeToolTip": "ModelValidationExample\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T15:36:24.957Z",
               "IsPinned": true,
@@ -40,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ModelValidationExample\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ModelValidationExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T15:39:06.683Z",
               "IsPinned": true,
