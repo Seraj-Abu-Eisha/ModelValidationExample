@@ -1,7 +1,10 @@
-﻿namespace ModelValidationExample.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ModelValidationExample.Models
 {
     public class Person
     {
+        [Required(ErrorMessage = "PersonName can't be empty or null")]
         public string? PersonName { get; set; }
         public string? Email { get; set; }
         public string? Phone { get; set; }

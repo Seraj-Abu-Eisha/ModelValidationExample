@@ -26,3 +26,4 @@ C:\Users\Working\source\repos\ModelValidationExample\ModelValidationExample\obj\
 C:\Users\Working\source\repos\ModelValidationExample\ModelValidationExample\obj\Debug\net9.0\ModelValidationExample.pdb
 C:\Users\Working\source\repos\ModelValidationExample\ModelValidationExample\obj\Debug\net9.0\ModelValidationExample.genruntimeconfig.cache
 C:\Users\Working\source\repos\ModelValidationExample\ModelValidationExample\obj\Debug\net9.0\ref\ModelValidationExample.dll
+C:\Users\Working\source\repos\ModelValidationExample\ModelValidationExample\obj\Debug\net9.0\ModelValidationExample.sourcelink.json

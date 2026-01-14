@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "ModelValidationExample\\Models\\Person.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Models\\Person.cs",
               "RelativeToolTip": "ModelValidationExample\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T15:36:24.957Z",
               "IsPinned": true,
@@ -42,9 +46,23 @@
               "RelativeDocumentMoniker": "ModelValidationExample\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ModelValidationExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T15:39:06.683Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Program.cs",
+              "RelativeDocumentMoniker": "ModelValidationExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Program.cs",
+              "RelativeToolTip": "ModelValidationExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:10:59.86Z",
               "IsPinned": true,
               "EditorCaption": ""
             }
