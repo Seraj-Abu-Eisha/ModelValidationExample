@@ -4,13 +4,13 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ModelValidationExample.Models
 {
-    public class Person
+    public class Person : IValidatableObject
     {
         [Required(ErrorMessage = "{0} PersonName can't be empty or null")]
         [Display(Name = "Person name")]
         [StringLength(40, MinimumLength = 3,
          ErrorMessage = "{0} should be between {2} and {1} chrachters long")]
-        [RegularExpression("^[A-Za-z .]$", ErrorMessage = "{0} should only have contain only alphabets" +
+        [RegularExpression("^[A-Za-z .]*$", ErrorMessage = "{0} should only have contain only alphabets" +
             ",space and dot (.)")]
         public string? PersonName { get; set; }
         [EmailAddress(ErrorMessage = "{0} error should contain proper address")]
@@ -36,11 +36,21 @@ namespace ModelValidationExample.Models
         [DateRangeValidator ("FromDate", ErrorMessage = "'From Date' should be older than or" +
             "equal to 'To date'")]
         public DateTime? ToDate { get; set; }
+        public int? Age { get; set; }
 
         public override string ToString()
         {
             return $"Person object - Person name: {PersonName}, Email: {Email}, " +
                 $"Phone:{Phone}, Password:{Password},ConfirmPassword:{ConfirmPassword}, Price:{Price}";
         }
+
+        public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
+        {
+            if (DateOfBirth.HasValue == false && Age.HasValue == false)
+            {
+                yield return new ValidationResult("Either enter date of birth or age", 
+                    new[] { nameof(Age) });
+            }
+         }
     }
 }
