@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using ModelValidationExample.CustomValidators;
 using System.ComponentModel.DataAnnotations;
 
@@ -30,6 +31,7 @@ namespace ModelValidationExample.Models
         public double? Price { get; set; }
 
         [MinimumYearValidator(2005)]
+        [BindNever]
         public DateTime? DateOfBirth { get; set; }
 
         public DateTime? FromDate { get; set;}
