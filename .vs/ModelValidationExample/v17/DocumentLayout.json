@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\customvalidators\\minimumyearvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\customvalidators\\minimumyearvalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\custommodelbinders\\personbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\custommodelbinders\\personbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\customvalidators\\daterangevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\customvalidators\\daterangevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|c:\\users\\working\\source\\repos\\modelvalidationexample\\modelvalidationexample\\custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4532E520-48FA-4C1F-BE51-3FFEB7F2586A}|ModelValidationExample\\ModelValidationExample.csproj|solutionrelative:modelvalidationexample\\custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ModelValidationExample\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ModelValidationExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T15:39:06.683Z",
               "IsPinned": true,
@@ -52,13 +48,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Program.cs",
               "RelativeDocumentMoniker": "ModelValidationExample\\Program.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Program.cs",
               "RelativeToolTip": "ModelValidationExample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T16:10:59.86Z",
               "IsPinned": true,
@@ -66,13 +62,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Models\\Person.cs",
               "RelativeDocumentMoniker": "ModelValidationExample\\Models\\Person.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\Models\\Person.cs",
               "RelativeToolTip": "ModelValidationExample\\Models\\Person.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T15:36:24.957Z",
               "IsPinned": true,
@@ -80,40 +76,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "PersonBinderProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\CustomModelBinders\\PersonBinderProvider.cs",
+              "RelativeDocumentMoniker": "ModelValidationExample\\CustomModelBinders\\PersonBinderProvider.cs",
+              "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\CustomModelBinders\\PersonBinderProvider.cs",
+              "RelativeToolTip": "ModelValidationExample\\CustomModelBinders\\PersonBinderProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:50:04.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PersonModelBinder.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\CustomModelBinders\\PersonModelBinder.cs",
               "RelativeDocumentMoniker": "ModelValidationExample\\CustomModelBinders\\PersonModelBinder.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\CustomModelBinders\\PersonModelBinder.cs",
               "RelativeToolTip": "ModelValidationExample\\CustomModelBinders\\PersonModelBinder.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwDAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T19:07:12.661Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DateRangeValidatorAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\CustomValidators\\DateRangeValidatorAttribute.cs",
-              "RelativeDocumentMoniker": "ModelValidationExample\\CustomValidators\\DateRangeValidatorAttribute.cs",
-              "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\CustomValidators\\DateRangeValidatorAttribute.cs",
-              "RelativeToolTip": "ModelValidationExample\\CustomValidators\\DateRangeValidatorAttribute.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T18:58:15.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MinimumYearValidatorAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\CustomValidators\\MinimumYearValidatorAttribute.cs",
-              "RelativeDocumentMoniker": "ModelValidationExample\\CustomValidators\\MinimumYearValidatorAttribute.cs",
-              "ToolTip": "C:\\Users\\Working\\source\\repos\\ModelValidationExample\\ModelValidationExample\\CustomValidators\\MinimumYearValidatorAttribute.cs",
-              "RelativeToolTip": "ModelValidationExample\\CustomValidators\\MinimumYearValidatorAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T18:27:25.58Z"
             }
           ]
         }
