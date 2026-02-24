@@ -43,8 +43,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T15:39:06.683Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "ViewState": "AgIAACAAAAAAAAAAAAAswCkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T15:36:24.957Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "ModelValidationExample\\CustomModelBinders\\PersonBinderProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T09:50:04.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T09:50:04.818Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "ModelValidationExample\\CustomModelBinders\\PersonModelBinder.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAqwDAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T19:07:12.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T19:07:12.661Z"
             }
           ]
         }
